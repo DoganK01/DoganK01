@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Medium: https://medium.com/@dogankeskin01
+## Medium: https://medium.com/@dogankeskin01
 
-Linkedln: https://www.linkedin.com/in/doankeskın10/
+## Linkedln: https://www.linkedin.com/in/doankeskın10/
+
+## Portfolio: https://dogankeskin.journoportfolio.com/
 
 <!--
 **DoganK01/DoganK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
