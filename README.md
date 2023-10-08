@@ -8,8 +8,9 @@
 # This is AIronman
 ### Intersted in Machine Learning, Deep Learning, Computer Vision, NLP and doing projects.
 ## Youtube: https://www.youtube.com/@AIronmanX/featured
-![MüqIronman](https://github.com/DoganK01/DoganK01/assets/98788987/3667b4c4-7677-43b8-a8be-48cd13a57d5a)
 
+
+![AIronmanWhite](https://github.com/DoganK01/DoganK01/assets/98788987/8392c73e-8aef-4c92-b103-252b667135c4)
 
 
 <!--
@@ -27,5 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoganK01&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoganK01&theme=highcontrast)
 
