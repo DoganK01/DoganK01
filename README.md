@@ -10,7 +10,8 @@
 ## Youtube: https://www.youtube.com/@AIronmanX/featured
 
 
-![AIronmanWhite](https://github.com/DoganK01/DoganK01/assets/98788987/8392c73e-8aef-4c92-b103-252b667135c4)
+![vecteezy_science-fiction-wallpaper-with-blue-lights-generative-ai_28792875_802-overlay (1)_11123123zon](https://github.com/DoganK01/DoganK01/assets/98788987/e7b65afe-dd46-4778-bbf1-bb568ec0fb5d)
+
 
 
 <!--
