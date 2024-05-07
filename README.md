@@ -4,9 +4,7 @@
 
 ## Linkedln: https://www.linkedin.com/in/doankeskın10/
 
-## Portfolio: https://dogankeskin.journoportfolio.com/
-# This is AI Spectrum
-### Intersted in Machine Learning, Deep Learning, Computer Vision, NLP and doing projects.
+### LLM Guy ⚡.
 ## Youtube: https://www.youtube.com/@AI__Spectrum/featured
 
 
