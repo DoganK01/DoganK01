@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=DoganK01&color=blue)
 
 ## Medium: https://medium.com/@dogankeskin01
 
