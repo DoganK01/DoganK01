@@ -1,32 +1,47 @@
-### Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=DoganK01&color=blue)
+# Hi there 👋
 
-## Medium: https://medium.com/@dogankeskin01
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DoganK01&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 
-## Linkedln: https://www.linkedin.com/in/doankeskın10/
+<h1 align="center">Dogan Keskin</h1>
 
-### LLM Guy ⚡.
-## Youtube: https://www.youtube.com/@AI__Spectrum/featured
+<h3 align="center">
+Building AI agents, LLM infrastructure and developer tools.
+</h3>
 
+<br>
 
-![vecteezy_science-fiction-wallpaper-with-blue-lights-generative-ai_28792875_802-overlay (1)_11123123zon](https://github.com/DoganK01/DoganK01/assets/98788987/e7b65afe-dd46-4778-bbf1-bb568ec0fb5d)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoganK01&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoganK01&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DoganK01&theme=tokyonight" />
+</p>
 
+## 🚀 About Me
 
-<!--
-**DoganK01/DoganK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🤖 Building AI agents and LLM-powered systems
+* ⚡ Interested in inference, orchestration and developer tooling
+* 🛠 Open-source contributor
+* 📚 Writing about AI and software engineering
 
-Here are some ideas to get you started:
+## 🌐 Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📝 Medium: https://medium.com/@dogankeskin01
+* 💼 LinkedIn: https://www.linkedin.com/in/doankeskin10/
+* 🎥 YouTube: https://www.youtube.com/@AI__Spectrum/featured
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoganK01&theme=highcontrast)
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DoganK01/DoganK01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/DoganK01/DoganK01/assets/98788987/e7b65afe-dd46-4778-bbf1-bb568ec0fb5d" />
+</p>
